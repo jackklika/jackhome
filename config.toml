@@ -48,3 +48,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     name = "About"
     weight = 2
     url = "/about/"
+[[menu.main]]
+    name = "Library"
+    weight = 3
+    url = "https://library.jackklika.com"
