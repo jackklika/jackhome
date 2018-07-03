@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jackklika</title>
+    <link>https://jackklika.com/</link>
+    <description>Recent content on jackklika</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jackklika.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Theme Demo</title>
+      <link>https://jackklika.com/posts/test/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jackklika.com/posts/test/</guid>
+      <description>This is a test post.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jackklika.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jackklika.com/about/</guid>
+      <description>About Jack some text here</description>
+    </item>
+    
+  </channel>
+</rss>

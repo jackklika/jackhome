@@ -1,4 +1,4 @@
-baseurl = "https://www.jackklika.com" # Hostname (and path) to the root.
+baseurl = "https://jackklika.com" # Hostname (and path) to the root.
 title = "jackklika" # Site title.
 theme = "coder" # Set the theme.
 languagecode = "en" # The site’s language code.
