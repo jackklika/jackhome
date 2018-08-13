@@ -31,5 +31,15 @@ Use the header to check out my blog, and on the bottom of the homepage you can f
 This page was generated with Hugo, served with Caddy, and styled with the hugo-coder theme.</description>
     </item>
     
+    <item>
+      <title>Projects</title>
+      <link>https://jackklika.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jackklika.com/projects/</guid>
+      <description>The Labyrinth 🔗 For the UWM branch of IEEE-CS, I&amp;rsquo;ve written a coding challenge website for members to use to test their programming ability. Instead of using email signup, users are identified by pubkey and answers are submitted using ssh. This has been my most extensive project to date.
+Puppetmonitor 🔗 For CGCA and LSC, I wrote a simple webpage to monitor our virtual servers in pure Go. It was a simple project, but taught me about backend design and how users would interact with the application.</description>
+    </item>
+    
   </channel>
 </rss>
