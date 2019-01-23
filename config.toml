@@ -12,7 +12,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 [params] # theme parameters
     author = "Jack Klika" # Author's name.
-    info = "Devops | Chinese" # Author's job title or info.
+    info = "Devops | Software" # Author's job title or info.
     description = "Jack's Website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
 
@@ -40,10 +40,10 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     url = "https://www.linkedin.com/in/jack-klika-55915912a/"
 
 # Menu links
-[[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "https://blog.jackklika.com"
+# [[menu.main]]
+#     name = "Blog"
+#     weight = 1
+#     url  = "https://blog.jackklika.com"
 [[menu.main]]
     name = "About"
     weight = 2
