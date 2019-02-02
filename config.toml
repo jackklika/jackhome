@@ -12,7 +12,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 [params] # theme parameters
     author = "Jack Klika" # Author's name.
-    info = "Devops | Software" # Author's job title or info.
+    info = "Software | Chinese" # Author's job title or info.
     description = "Jack's Website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
 
