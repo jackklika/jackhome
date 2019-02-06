@@ -1,6 +1,6 @@
 baseurl = "https://jackklika.com" # Hostname (and path) to the root.
 title = "jackklika" # Site title.
-theme = "coder" # Set the theme.
+theme = "hugo-coder" # Set the theme.
 languagecode = "en" # The site’s language code.
 
 paginate = 20 # Default number of pages per page in pagination.
